@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\52dbda86a91cfa1791c0baef88f2c7c2\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d488dbb3c6830cbf6ef742d6efce16bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ee3c0692bf2b52731ab3a8e07704220b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cee1085565c14cc64e9c276c56bc984d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\797ae17cba70d2eb42b4c8bf09fe20a1\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\a31f77afad70231fe6a0a14afc79c260\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\5a20572eac04da2d4ca2aadf557f6946\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1200cfe56282bf78f73f4e04692cafe6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7bfd3d4ec8a52474532363b7f2b85af0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a970bb892237fd782c10cf14b6800ef1\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\906966ae7e7ecd80a3f6de401c05315b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c81fa140061897711ee5f87e77ccec7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\922406bce303633ac72310f5f9cb9a40\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b7d96b06c5dff0e56599dd96e3fb74a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\144a20aac2b7d10e9f51636430d97b26\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\669ccf138f28c4edd6e4c94c3cc9b215\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cee1085565c14cc64e9c276c56bc984d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cee1085565c14cc64e9c276c56bc984d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\797ae17cba70d2eb42b4c8bf09fe20a1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\797ae17cba70d2eb42b4c8bf09fe20a1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1200cfe56282bf78f73f4e04692cafe6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1200cfe56282bf78f73f4e04692cafe6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7bfd3d4ec8a52474532363b7f2b85af0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7bfd3d4ec8a52474532363b7f2b85af0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a970bb892237fd782c10cf14b6800ef1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a970bb892237fd782c10cf14b6800ef1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\922406bce303633ac72310f5f9cb9a40\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\922406bce303633ac72310f5f9cb9a40\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b7d96b06c5dff0e56599dd96e3fb74a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b7d96b06c5dff0e56599dd96e3fb74a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\144a20aac2b7d10e9f51636430d97b26\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\144a20aac2b7d10e9f51636430d97b26\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:9:9-40
+	android:allowBackup
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.farhan.quiz.QuizActivity
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:15:13-63
+	android:name
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:13:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.farhan.quiz.ResultActivity
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:22:9-24:61
+	android:label
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:24:13-58
+	android:name
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:23:13-43
+uses-permission#android.permission.INTERNET
+ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml:27:22-64
+uses-sdk
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:21:5-23:78
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\52dbda86a91cfa1791c0baef88f2c7c2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\52dbda86a91cfa1791c0baef88f2c7c2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d488dbb3c6830cbf6ef742d6efce16bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d488dbb3c6830cbf6ef742d6efce16bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ee3c0692bf2b52731ab3a8e07704220b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ee3c0692bf2b52731ab3a8e07704220b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cee1085565c14cc64e9c276c56bc984d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cee1085565c14cc64e9c276c56bc984d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\797ae17cba70d2eb42b4c8bf09fe20a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\797ae17cba70d2eb42b4c8bf09fe20a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\a31f77afad70231fe6a0a14afc79c260\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\a31f77afad70231fe6a0a14afc79c260\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\5a20572eac04da2d4ca2aadf557f6946\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\5a20572eac04da2d4ca2aadf557f6946\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1200cfe56282bf78f73f4e04692cafe6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1200cfe56282bf78f73f4e04692cafe6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7bfd3d4ec8a52474532363b7f2b85af0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7bfd3d4ec8a52474532363b7f2b85af0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a970bb892237fd782c10cf14b6800ef1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a970bb892237fd782c10cf14b6800ef1\AndroidManifest.xml:21:5-23:61
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\906966ae7e7ecd80a3f6de401c05315b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\906966ae7e7ecd80a3f6de401c05315b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c81fa140061897711ee5f87e77ccec7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c81fa140061897711ee5f87e77ccec7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\922406bce303633ac72310f5f9cb9a40\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\922406bce303633ac72310f5f9cb9a40\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b7d96b06c5dff0e56599dd96e3fb74a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b7d96b06c5dff0e56599dd96e3fb74a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\144a20aac2b7d10e9f51636430d97b26\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\144a20aac2b7d10e9f51636430d97b26\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\669ccf138f28c4edd6e4c94c3cc9b215\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\669ccf138f28c4edd6e4c94c3cc9b215\AndroidManifest.xml:20:5-44
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+		ADDED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMP Studio\Quiz-network\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cee1085565c14cc64e9c276c56bc984d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cee1085565c14cc64e9c276c56bc984d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\797ae17cba70d2eb42b4c8bf09fe20a1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\797ae17cba70d2eb42b4c8bf09fe20a1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1200cfe56282bf78f73f4e04692cafe6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1200cfe56282bf78f73f4e04692cafe6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7bfd3d4ec8a52474532363b7f2b85af0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7bfd3d4ec8a52474532363b7f2b85af0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a970bb892237fd782c10cf14b6800ef1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a970bb892237fd782c10cf14b6800ef1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\922406bce303633ac72310f5f9cb9a40\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\922406bce303633ac72310f5f9cb9a40\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b7d96b06c5dff0e56599dd96e3fb74a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b7d96b06c5dff0e56599dd96e3fb74a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\144a20aac2b7d10e9f51636430d97b26\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\144a20aac2b7d10e9f51636430d97b26\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\be2ab6172a06c5f2d22e8ebb33fb569f\AndroidManifest.xml:27:13-51
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hans\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\3dd9ac4614371d0af34876edf326eb46\AndroidManifest.xml:24:13-83

@@ -1,0 +1,4 @@
+-Disini Saya membuat Custom API dengan menembak END Point https://api.mocki.io/v1/995534ff
+agar memudahkan saya dalam mengelola data nya 
+-sudah saya cantumkan(Costume API/costume_api.php) juga code untuk penembakan APInya dan sudah saya hosting di host saya agar mudah
+diintregasi 
